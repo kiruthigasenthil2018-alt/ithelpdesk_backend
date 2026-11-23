@@ -1,0 +1,9 @@
+# VPN Troubleshooting Guide
+If the VPN will not connect, first check that your internet connection works by opening any website.
+Step 1: Close the VPN client completely and reopen it.
+Step 2: Check that the date and time on your laptop are correct. A wrong clock breaks VPN certificates.
+Step 3: Disconnect from other VPN or proxy software, then try again.
+Step 4: Flush the DNS cache (ipconfig /flushdns on Windows) and restart the network adapter.
+Step 5: If the error says "authentication failed", your password may have expired. See the password reset guide.
+Step 6: If the VPN profile is corrupted, ask the helpdesk to re-issue the VPN profile.
+If none of these steps work, escalate to Network Operations with the error message and a screenshot.

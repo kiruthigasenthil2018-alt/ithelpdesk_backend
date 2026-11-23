@@ -1,0 +1,6 @@
+# BYOD and Mobile Device Policy
+Personal phones may be used for company email and Teams after enrolling in device management.
+Requirements: a screen lock PIN or biometric, the latest operating system updates, and no jailbreak or root.
+Lost or stolen phone: report it to the helpdesk immediately. IT can remotely remove company data. Remote wipe and device quarantine are consequential actions that need approval.
+Company data must not be copied to personal cloud storage or personal email.
+Leaving the company: company data is removed from your personal device on your last day.

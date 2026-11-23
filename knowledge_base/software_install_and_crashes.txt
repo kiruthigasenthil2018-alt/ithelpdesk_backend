@@ -1,0 +1,6 @@
+# Software Installation and Application Crashes
+Application crashes: restart the application, install pending updates, then restart the laptop.
+Clear the application cache if Outlook or Teams keeps freezing or shows old data.
+Software installation requests must be approved by your manager and are installed from the company software center.
+Office applications that show "license not found": sign out and sign in again with your work account.
+If an application crashes after an update, collect the error message and escalate to Application Support.

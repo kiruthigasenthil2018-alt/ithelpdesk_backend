@@ -1,0 +1,7 @@
+# Remote Work IT Checklist
+Before working from home: connect to the VPN, confirm you can reach the shared drive and test a Teams call.
+Use a private Wi-Fi network with a strong password. Avoid public Wi-Fi unless the VPN is on.
+Keep the laptop updated and locked when not in use. Do not let family members use the work laptop.
+Printing at home is not supported for confidential documents.
+Internet problems at home: restart the router, move closer to it, and check whether other devices are also affected. If only work apps fail, flush the DNS cache and reconnect the VPN.
+If the VPN fails with authentication errors, your password may have expired.

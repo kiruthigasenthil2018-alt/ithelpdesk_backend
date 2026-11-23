@@ -1,0 +1,7 @@
+# Printer and Hardware Problems
+Printer offline: check power and network cable, then set the printer as default and restart the print spooler service.
+Paper jam: open all trays, remove the paper gently in the direction of the paper path, and close the covers.
+Laptop will not turn on: hold the power button for 15 seconds, plug in the charger for 30 minutes, then try again.
+Monitor shows no signal: reseat the HDMI or DisplayPort cable and select the correct input source.
+Battery drains quickly: lower screen brightness and close background applications. Replace batteries older than 3 years.
+USB device not detected: try another port and restart the laptop.

@@ -1,0 +1,6 @@
+# Shared Drive and File Access Problems
+Access denied to a folder: you need permission from the folder owner. Raise a request through the service catalog and name the folder path and your manager as approver.
+Shared drive not visible: connect to the VPN when working remotely, then reconnect the network drive. Restart the computer if the drive letter is missing.
+File locked by another user: wait until the other person closes it, or ask them to close it. IT can release a stuck lock after confirmation.
+Sync errors in OneDrive: check there is enough storage space, avoid special characters in file names, pause and resume sync, and sign out and sign in again.
+Granting access to others is a consequential change and needs approval from the data owner.

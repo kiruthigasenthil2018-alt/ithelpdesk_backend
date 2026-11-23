@@ -1,0 +1,8 @@
+# Teams and Zoom Meeting Troubleshooting
+No sound in a meeting: check that the correct speaker is selected in the meeting settings and that the volume is not muted. Test with another app.
+Microphone not working: allow microphone access in Windows privacy settings, select the right microphone in the meeting, and make sure it is not muted on the headset.
+Camera not detected: close other apps that use the camera, unplug and replug the webcam, and check that the camera is allowed in privacy settings.
+Choppy video or audio: switch off your camera, close heavy applications, move closer to the Wi-Fi router or use a network cable, and leave the VPN if it is not required for the meeting.
+Cannot join a meeting: check the meeting link, sign out and sign in again with your work account, and clear the Teams cache.
+Screen sharing shows a black screen: update the application and turn off hardware acceleration in its settings.
+If nothing works, raise a ticket with the meeting application name, the error message and a screenshot.

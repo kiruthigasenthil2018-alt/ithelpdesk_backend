@@ -1,0 +1,22 @@
+# Versions below were installed and tested together (Python 3.13 sandbox).
+fastapi==0.165.0
+uvicorn[standard]==0.54.0
+pydantic==2.14.4
+pydantic-settings==2.16.3
+python-multipart==0.0.34
+httpx==0.28.1
+SQLAlchemy==2.1.9
+alembic==1.20.1
+psycopg2-binary==2.9.13
+redis==8.1.0
+chromadb==1.5.9
+pypdf==7.1.1
+numpy==2.5.5
+langgraph==1.2.24
+langchain-text-splitters==1.1.3
+mcp==1.30.0
+pytest==9.2.0
+PyJWT==2.15.1
+# Local embeddings (NOT installed in the test sandbox - needs a ~1 GB torch download
+# and access to huggingface.co). Install and verify on your machine:
+sentence-transformers>=3.0,<6

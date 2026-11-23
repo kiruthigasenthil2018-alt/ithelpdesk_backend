@@ -1,0 +1,6 @@
+# Wi-Fi and Network Connectivity
+Slow or missing Wi-Fi: toggle Wi-Fi off and on, then forget the network and reconnect with your credentials.
+Check whether other devices on the same Wi-Fi also have no internet. If everyone is affected, report a network outage.
+Run a DNS flush and restart the network adapter if websites do not load but the Wi-Fi shows connected.
+For ethernet, check that the cable is firmly connected and try another port or cable.
+In the office, connect to the corporate SSID. The guest network cannot reach internal systems.
